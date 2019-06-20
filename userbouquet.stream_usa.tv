@@ -1,0 +1,191 @@
+#NAME Stream USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s27/04.m3u8:CNN International
+#DESCRIPTION CNN International
+#SERVICE 4097:0:1:32:1:1:0:0:0:0:http%3a//liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8:Bloomberg (USA)
+#DESCRIPTION Bloomberg (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8:CNBC World (USA)
+#DESCRIPTION CNBC World (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8:CBS (USA)
+#DESCRIPTION CBS (USA)
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:https%3a//1886592016.rsc.cdn77.org/zjpLJz1AFWZ7bwu8WTLXwQ==,1557424839/LS-ATL-54548-15/tracks-v1a1/mono.m3u8:MSNBC (USA)
+#DESCRIPTION MSNBC (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.field59.com/wwsb/ngrp%3awwsb1_all/playlist.m3u8:ABC (USA)
+#DESCRIPTION ABC (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2223.janjua.pw:CNN (USA)
+#DESCRIPTION CNN (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/8/live.m3u8:USA - Discovery Channel HD
+#DESCRIPTION USA - Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8:Weather Channel HD (USA)
+#DESCRIPTION Weather Channel HD (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/9/live.m3u8:USA - Science Channel
+#DESCRIPTION USA - Science Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ga.video.cdn.pbs.org/videos/nature/bf2826a1-a3d3-4a2c-85c8-cdbefaa5640e/182800/hd-mezzanine-16x9/d024d04a_naat_3211_1080p-16x9-hls-2500k.m3u8:USA - NAT GEO NATURE
+#DESCRIPTION USA - NAT GEO NATURE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8:USA - NASA TV Media
+#DESCRIPTION USA - NASA TV Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8:USA - Cooking Channel
+#DESCRIPTION USA - Cooking Channel
+#SERVICE 4097:0:1:7:1:1:0:0:0:0:http%3a//ssc1.wpsu.psu.edu/wpsu730orig/ngrp:PBS (USA)
+#DESCRIPTION PBS (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//170.250.96.20%3a8102/ABC25.m3u8:ABC 25 (USA)
+#DESCRIPTION ABC 25 (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv-area-51.tv%3a2095/live/knife/358ZMvyh7w/3353.m3u8:ABC 6 Minnesota (USA)
+#DESCRIPTION ABC 6 Minnesota (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d:ABC 7 Los Angeles (USA)
+#DESCRIPTION ABC 7 Los Angeles (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//64.22.99.223%3a1935/AtlantaGALIVE playpath=AtlantaGALIVE.stream swfUrl=http%3a//view.earthchannel.com/misc/player.swf pageUrl=http%3a//view.earthchannel.com/PlayerLive.aspx:ATL 26
+#DESCRIPTION ATL 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8:AXN (UK - USA)
+#DESCRIPTION AXN (UK - USA)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/DTVHD/playlist.m3u8:Beach TV - 30A (USA)
+#DESCRIPTION Beach TV - 30A (USA)
+#SERVICE 4097:0:1:207:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/BTVHD/chucklist.m3u8:Beach TV - Panama City (USA)
+#DESCRIPTION Beach TV - Panama City (USA)
+#SERVICE 4097:0:1:209:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/MTVHD/playlist.m3u8:Beach TV - Pawleys Island (USA)
+#DESCRIPTION Beach TV - Pawleys Island (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8:Bloomberg (USA)
+#DESCRIPTION Bloomberg (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8:BUZZR (USA)
+#DESCRIPTION BUZZR (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:California Music Channel (muziek - USA)
+#DESCRIPTION California Music Channel (muziek - USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//catholictvhd-lh.akamaihd.net%3a80/i/ctvhd_1@88148/master.m3u8:Catholic TV (USA)
+#DESCRIPTION Catholic TV (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//catholictvhd-lh.akamaihd.net%3a80/i/ctvhd_1@88148/index_1_av-p.m3u8:CATOLIC TV USA
+#DESCRIPTION CATOLIC TV USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8:Cats Meow Karaoke Bar  (USA)
+#DESCRIPTION Cats Meow Karaoke Bar  (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8:CBN (USA)
+#DESCRIPTION CBN (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8:CBN News (USA)
+#DESCRIPTION CBN News (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8:Channel 11 News WPXI (Pittsburgh - USA)
+#DESCRIPTION Channel 11 News WPXI (Pittsburgh - USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.media9.truegod.tv/ctvnlive/smil%3actvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8:Cornerstone TV (USA)
+#DESCRIPTION Cornerstone TV (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8:CW 9 Chicago, IL
+#DESCRIPTION CW 9 Chicago, IL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/15_9.m3u8:DCC TV (USA)
+#DESCRIPTION DCC TV (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/21_5.m3u8:DCN TV (USA)
+#DESCRIPTION DCN TV (USA)
+#SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/96_4.m3u8:District Knowledge Network (USA)
+#DESCRIPTION District Knowledge Network (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/DCN.m3u8:District of Columbia Network
+#DESCRIPTION District of Columbia Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/96_1.m3u8:DKN TV (USA)
+#DESCRIPTION DKN TV (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8:Focus 49 Olelo (USA)
+#DESCRIPTION Focus 49 Olelo (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8:Fox 5 News (Washington DC)
+#DESCRIPTION Fox 5 News (Washington DC)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8:Fox Sports Racing (USA)
+#DESCRIPTION Fox Sports Racing (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//hctv.streamguys.org%3a80/live playpath=streamName swfUrl=http%3a//helenacivictv.org/player/flowplayer-3.2.11.swf pageUrl=http%3a//helenacivictv.org/whats-on-channel-11/live-stream/:Helena Civic TV
+#DESCRIPTION Helena Civic TV
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab (USA)
+#DESCRIPTION History Lab (USA)
+#SERVICE 4097:0:1:213:0:0:0:0:0:0:http%3a//173.199.158.79%3a1935/roku/myStream/playlist.m3u8:Kool TV (USA)
+#DESCRIPTION Kool TV (USA)
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//170.250.96.20%3a8107/nbc.m3u8:NBC 1 (USA)
+#DESCRIPTION NBC 1 (USA)
+#SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8:NBC 10 News Philadelphia (USA)
+#DESCRIPTION NBC 10 News Philadelphia (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/4/live.m3u8:Planet Green USA
+#DESCRIPTION Planet Green USA
+#SERVICE 4097:0:1:219:0:0:0:0:0:0:https%3a//theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8:The Blaze (USA)
+#DESCRIPTION The Blaze (USA)
+#SERVICE 4097:0:1:399:0:0:0:0:0:0:https%3a//dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8:The Country Network (USA)
+#DESCRIPTION The Country Network (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//tv.thedove.us%3a1935/theDoveTV/3theDove.sdp:The Dove (USA)
+#DESCRIPTION The Dove (USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8:The Weather Channels US
+#DESCRIPTION The Weather Channels US
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_1500.m3u8:USA - 3 NEWS NZ
+#DESCRIPTION USA - 3 NEWS NZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/my999.m3u8:USA - 30A TV
+#DESCRIPTION USA - 30A TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8:USA - ABC News
+#DESCRIPTION USA - ABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8:USA - AKC TV
+#DESCRIPTION USA - AKC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8:USA - Al Jazeera
+#DESCRIPTION USA - Al Jazeera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http%3a//vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http%3a//vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15:USA - AMGTV
+#DESCRIPTION USA - AMGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/1/live.m3u8:USA - Animal Planet
+#DESCRIPTION USA - Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8:USA - Animal Planet
+#DESCRIPTION USA - Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8:USA - AXS TV
+#DESCRIPTION USA - AXS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8:USA - Big Ten Network
+#DESCRIPTION USA - Big Ten Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8:USA - Bravo
+#DESCRIPTION USA - Bravo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-b.m3u8:USA - CBN Live
+#DESCRIPTION USA - CBN Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcliveuniv-lh.akamaihd.net%3a80/i/news_1@194050/index_900_av-b.m3u8:USA - CBS NEWS
+#DESCRIPTION USA - CBS NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/darcizzle.m3u8:USA - Darcizzle Offshore
+#DESCRIPTION USA - Darcizzle Offshore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.242.13.90%3a5555/udp/239.4.2.19%3a10000:USA - Discovery Channel
+#DESCRIPTION USA - Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8:USA - Ditty TV
+#DESCRIPTION USA - Ditty TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/live.m3u8:USA - ESPN (sport)
+#DESCRIPTION USA - ESPN (sport)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8:USA - ESPN 2 (sport)
+#DESCRIPTION USA - ESPN 2 (sport)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.streamhost.org/salive/GMIFLNL:USA - Firstlight
+#DESCRIPTION USA - Firstlight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8:USA - Fox Comedy (Asia)
+#DESCRIPTION USA - Fox Comedy (Asia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8:USA - FOX NEWS
+#DESCRIPTION USA - FOX NEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIFLNL/chunklist.m3u8:USA - Gobal Family Network
+#DESCRIPTION USA - Gobal Family Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8:USA - Greenbelt TV
+#DESCRIPTION USA - Greenbelt TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//218.202.220.2%3a5000/nn_live.ts?id=HBO:USA - HBO (Asia)
+#DESCRIPTION USA - HBO (Asia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8:USA - HBO 2 (Dual)
+#DESCRIPTION USA - HBO 2 (Dual)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iss01.ott.net.tw%3a8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8:USA - HBO Hits (Asia)
+#DESCRIPTION USA - HBO Hits (Asia)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8:USA - HSN 2
+#DESCRIPTION USA - HSN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8:USA - HSN
+#DESCRIPTION USA - HSN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8:USA - Jewelry Television
+#DESCRIPTION USA - Jewelry Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8:USA - KCPQ/Q13 FOX Seattle WA
+#DESCRIPTION USA - KCPQ/Q13 FOX Seattle WA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8:USA - KESQ Palm Springs
+#DESCRIPTION USA - KESQ Palm Springs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8:USA - NBC
+#DESCRIPTION USA - NBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/7/live.m3u8:USA - Showtime
+#DESCRIPTION USA - Showtime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30a-tv.com/sidewalks.m3u8:USA - Sidewalks
+#DESCRIPTION USA - Sidewalks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8:USA - Sony Movie Channel
+#DESCRIPTION USA - Sony Movie Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8:USA - Sony Movie Channel
+#DESCRIPTION USA - Sony Movie Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8:USA - Spydar TV
+#DESCRIPTION USA - Spydar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtb.srfms.com%3a3333/live/telebostonrtb/chunklist.m3u8:USA - Tele Boston
+#DESCRIPTION USA - Tele Boston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/2/live.m3u8:USA - TLC
+#DESCRIPTION USA - TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/3/live.m3u8:USA - Travel Channel
+#DESCRIPTION USA - Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8:USA - TV Marti
+#DESCRIPTION USA - TV Marti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8:VOA - Voice of America (USA)
+#DESCRIPTION VOA - Voice of America (USA)
+#SERVICE 4097:0:1:130:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/8522553/events/live/live.m3u8:WCCB News (Charlotte USA)
+#DESCRIPTION WCCB News (Charlotte USA)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/8522553/events/live/live.m3u8:WCCB News (Charlotte)
+#DESCRIPTION WCCB News (Charlotte)

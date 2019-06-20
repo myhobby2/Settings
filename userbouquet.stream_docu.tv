@@ -1,0 +1,47 @@
+#NAME Stream Docu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8:Animal Planet HD (docu - UK)
+#DESCRIPTION Animal Planet HD (docu - UK)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8:Discovery World (docu - UK)
+#DESCRIPTION Discovery World (docu - UK)
+#SERVICE 4097:0:1:51DA:C96:3:EB0000:0:0:0:https%3a//api.new.livestream.com/accounts/27755193/events/8469152/live.m3u8:Evenaar (docu - België)
+#DESCRIPTION Evenaar (docu - België)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kiev4-cdn.lanet.tv/live/2009.m3u8:Lanet TV Home (Oekraïne - open haard op tv)
+#DESCRIPTION Lanet TV Home (Oekraïne - open haard op tv)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//universeiptv.com%3a8000/live/wcmRHzUxdj/zWdtl2LCCM/883.ts:Planete+ (Frankrijk)
+#DESCRIPTION Planete+ (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//universeiptv.com%3a8000/live/wcmRHzUxdj/zWdtl2LCCM/847.ts:Polar+ (Frankrijk)
+#DESCRIPTION Polar+ (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8:RT Documentary (nieuws)
+#DESCRIPTION RT Documentary (nieuws)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.85.100%3a8081/SilenceTV/live/playlist.m3u8:Silence TV World
+#DESCRIPTION Silence TV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/00643E2B/4196/0/hls720/720p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT EXPLORE HD (Polen)
+#DESCRIPTION VIASAT EXPLORE HD (Polen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/C1F25A0A/4194/0/hls720/720p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT HISTORY HD (Polen)
+#DESCRIPTION VIASAT HISTORY HD (Polen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/27D4F385/4195/0/hls576/576p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT NATURE (Polen)
+#DESCRIPTION VIASAT NATURE (Polen)
+#SERVICE 1:64:188:0:0:0:0:0:0:0::+++Tjechie+++
+#DESCRIPTION +++Tjechie+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.elektrika.cz/live/myStream.sdp:Elektrika TV
+#DESCRIPTION Elektrika TV
+
+#SERVICE 4097:0:1:1:0:31:0:0:0:0:https%3a//d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8:Omrop Frysl�n HD
+#SERVICE 4097:0:1:2:0:31:0:0:0:0:https%3a//media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8:RTV Noord HD
+#SERVICE 4097:0:1:3:0:31:0:0:0:0:https%3a//cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8:RTV Drenthe HD
+#SERVICE 4097:0:1:4:0:31:0:0:0:0:https%3a//mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8:RTV Oost HD
+#SERVICE 4097:0:1:4:0:31:0:0:0:0:https%3a//streams.rtvoost.nl/video/tv/hls.m3u8:RTV Oost HD altnernatief
+#SERVICE 4097:0:1:6:0:31:0:0:0:0:http%3a//media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8:RTV Utrecht HD
+#SERVICE 4097:0:1:6:0:31:0:0:0:0:http%3a//d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8:RTV Utrecht HD - alternatief
+#SERVICE 4097:0:1:8:0:31:0:0:0:0:https%3a//d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8:Omroep Flevoland HD
+#SERVICE 4097:0:1:9:0:31:0:0:0:0:https%3a//ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/chunklist.m3u8:NH HD (RTV Noord-Holland)
+#SERVICE 4097:0:1:A:0:31:0:0:0:0:https%3a//ngx.cr6.streamzilla.xlcdn.com/session/633d68f1c51db8f59c63f1d0984b551f/sz/atvijf/wowza4/live/live.smil/chunklist_b1048576.m3u8:AT5 (Amsterdam e.o)
+#SERVICE 4097:0:1:B:0:31:0:0:0:0:http%3a//d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp%3atv-feed_all/playlist.m3u8:Omroep West HD
+#SERVICE 4097:0:1:D:0:31:0:0:0:0:http%3a//d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8 :RTV Rijnmond
+#SERVICE 4097:0:1:E:0:31:0:0:0:0:http%3a//d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8:Omroep Zeeland HD
+#SERVICE 4097:0:1:F:0:31:0:0:0:0:http%3a//d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8:Omroep Brabant HD
+#SERVICE 4097:0:1:12:0:31:0:0:0:0:https%3a//ms10.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8:RTV Dordrecht
+#SERVICE 4097:0:1:13:0:31:0:0:0:0:https%3a//58c2eaf76046f.streamlock.net/vleugels_hd4/livestream/playlist.m3u8:Xite NL
+#SERVICE 4097:0:1:11:0:31:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8:Omroep Gelderland HD
+#SERVICE 4097:0:1:10:0:31:0:0:0:0:http%3a//d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8 :L1 HD
+#SERVICE 4097:0:1:10:0:31:0:0:0:0:http%3a//livestreams.omroep.nl/live/regionaal/l1/l1tv/l1tv.isml/l1tv.m3u8:L1 SD
