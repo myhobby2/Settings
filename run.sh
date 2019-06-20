@@ -6,3 +6,4 @@ wget --no-check-certificate https://github.com/myhobby2/Settings/raw/master/user
 wget --no-check-certificate https://github.com/myhobby2/Settings/raw/master/userbouquet.stream_docu.tv
 wget --no-check-certificate https://github.com/myhobby2/Settings/raw/master/lamedb
 wget --no-check-certificate https://github.com/myhobby2/Settings/raw/master/lamedb5
+wget --no-check-certificate https://github.com/myhobby2/Settings/master/run.sh
