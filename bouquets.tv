@@ -1,7 +1,0 @@
-#NAME Bouquets (TV)
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.france.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_monaco.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_frankrijk.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_usa.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.stream_docu.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
